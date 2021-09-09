@@ -1,0 +1,8 @@
+.NavBar{
+    text-align: center;
+    text-decoration: underline;
+    color: pink;
+    border: purple 10px solid;
+    padding: auto;
+    margin: 2rem;
+  }
