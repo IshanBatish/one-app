@@ -1,8 +1,24 @@
 .NavBar{
     text-align: center;
     text-decoration: underline;
-    color: pink;
+    color: blue;
     border: purple 10px solid;
     padding: auto;
+    background:lemonchiffon;
     margin: 2rem;
   }
+.NavBar ul{
+    -webkit-flow-from: inherit;
+    display: flex;
+    background-color: white;
+    box-shadow: teal 10%;
+    list-style: none;
+}
+.NavBar ul li{
+    margin: auto;
+    background-color:thistle;
+    height: 100%;
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+}
